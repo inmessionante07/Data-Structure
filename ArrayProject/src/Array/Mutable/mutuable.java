@@ -1,4 +1,4 @@
-package Mutable;
+package Array.Mutable;
 
 import java.util.Scanner;
 
